@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/E5LP0b1ad8b0fWBa2NKPNliAExuJkJUJrO4yTqrS6wskjgRFL13LxerddeQdtFsd9/zo7D2GFJNu1tU+8lmvg==",
+  "success": true,
+  "projectFilePath": "C:\\Cognizant_Dotnet_Training\\Stage 4\\Cloud Concept\\07-07-Cloud-Handson\\MyFirstWebApi22\\MyFirstWebApi22.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dines\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
